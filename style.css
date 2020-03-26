@@ -1,0 +1,144 @@
+html, body{
+  min-height: 100%;
+  font-family: 'Bitter', serif;
+  background: #f0f0f0;
+}
+
+
+.container {
+  margin: auto;
+  width: 100%;
+  padding: 10px;
+}
+
+.Hatt_Topp {
+  background-color: rgb(0, 0, 0);
+  position: absolute;
+  left: 92px;
+  top: 17px;
+  width: 60px;
+  height: 46px;
+  z-index: 19;
+}
+
+.Hatt_Roed {
+  background-color: rgb(255, 0, 0);
+  position: absolute;
+  left: 92px;
+  top: 60px;
+  width: 60px;
+  height: 14px;
+  z-index: 10;
+}
+
+.Hatt_Bunn {
+  background-color: rgb(0, 0, 0);
+  position: absolute;
+  left: 79px;
+  top: 68px;
+  width: 88px;
+  height: 13px;
+  z-index: 17;
+}
+
+.Skjerf_Hoyre {
+  background-color: rgb(0, 191, 243);
+  position: absolute;
+  left: 124px;
+  top: 137px;
+  width: 24px;
+  height: 59px;
+  z-index: 16;
+}
+
+.Skjerf {
+  background-color: rgb(0, 191, 243);
+  position: absolute;
+  left: 90px;
+  top: 137px;
+  width: 65px;
+  height: 18px;
+  z-index: 15;
+}
+
+.Skjerf_Venstre {
+  background-color: rgb(0, 191, 243);
+  position: absolute;
+  left: 101px;
+  top: 152px;
+  width: 18px;
+  height: 29px;
+  z-index: 14;
+}
+
+.Nese {
+  background-color: rgb(242, 101, 34);
+  position: absolute;
+  left: 117px;
+  top: 109px;
+  width: 10px;
+  height: 20px;
+  z-index: 13;
+}
+
+.Oye_Hoyre {
+  background-color: rgb(0, 0, 0);
+  position: absolute;
+  left: 127px;
+  top: 95px;
+  width: 9px;
+  height: 8px;
+  z-index: 5;
+}
+
+.Oye_Venstre {
+  background-color: rgb(0, 0, 0);
+  position: absolute;
+  left: 107px;
+  top: 95px;
+  width: 9px;
+  height: 8px;
+  z-index: 4;
+}
+
+.Kropp_Topp {
+  border-width: 3.571px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 81px;
+  top: 67px;
+  width: 74.858px;
+  height: 76.858px;
+  z-index: 3;
+}
+
+.Kropp_Mid {
+  border-width: 3.571px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 63px;
+  top: 142px;
+  width: 113.858px;
+  height: 106.858px;
+  z-index: 2;
+}
+
+.Kropp_Bunn {
+  border-width: 3.571px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 44px;
+  top: 223px;
+  width: 155.858px;
+  height: 140.858px;
+  z-index: 1;
+}
