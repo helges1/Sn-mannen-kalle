@@ -1,2 +1,2 @@
-# Sn-mannen-kalle
-En snømann
+# Snømannen Kalle
+En snømann laget uten snø
